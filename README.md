@@ -476,9 +476,4 @@ The user experience is conceptualized through a holistic approach that prioritiz
 - Development environment setup guides
 - Contributor guidelines
 
-### 12.2 Team and Contact Information
-- Core development team roster
-- Technical leadership contacts
-- External consultation resources
 
-Would you like me to elaborate on any specific section or provide additional details?
